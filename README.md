@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
-ML Projects for self improvement 🫥
+# Rock or Mine Prediction using Logistic Regression
 
-Rock or Mine Prediction
+This code loads and checks a sonar dataset and applies a logistic regression algorithm to predict the class labels of the sonar signals as either "R" (rock) or "M" (mine). 
+
